@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**22m441046/22m441046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/ankitwarbhe">
+  <img align="left" alt="Ankit Warbhe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ankit-warbhe/">
+  <img align="left" alt="Ankit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/ankit.warbhe/">
+  <img align="left" alt="Ankit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://devfolio.co/@ankitwarbhe/">
+  <img align="left" alt="Ankit's Devfolio" width="26px" src="https://pbs.twimg.com/profile_images/1212398116101472257/VVvZ_m4A_400x400.png"/>
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- :telescope: I'm currently studying BTech in CSE 💻;
+
+- 
